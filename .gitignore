@@ -1,0 +1,21 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Java compiled files
+*.class
+
+# Temporary runner files
+tempCodeRunnerFile.*
+*.temp
+
+# Build directories
+build/
+bin/
+
+# OS generated files
+.DS_Store
+Thumbs.db
